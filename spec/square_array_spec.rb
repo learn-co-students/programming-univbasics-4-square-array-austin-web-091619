@@ -1,4 +1,4 @@
-require_relative './spec_helper'
+larequire_relative './spec_helper'
 
 describe '#square_array' do
 
